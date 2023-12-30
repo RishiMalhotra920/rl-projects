@@ -1,8 +1,6 @@
-# About
-
 ![CliffWalking](https://github.com/RishiMalhotra920/rl-projects/blob/master/images/Cliffwalking.png)
 
-
+# About
 This is me experimenting with various algorithms in the Reinforcement Learning Book by Richard Sutton.
 I chose the Cliffwalking-v0 environment in gymnasium to try out these algorithms
 
@@ -18,9 +16,10 @@ I was able to achieve a maximum reward of 18 steps. The optimal trajectory would
 search and reward modelling, I could have gotten there.
 
 # To run
-
+```
 pip install requirements.txt
 python main.py
+```
 
 # Experiments
 
