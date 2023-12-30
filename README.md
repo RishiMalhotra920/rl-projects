@@ -1,6 +1,8 @@
 # About
 
-![CliffWalking]()
+![CliffWalking](https://github.com/RishiMalhotra920/rl-projects/blob/master/images/Cliffwalking.png)
+
+
 This is me experimenting with various algorithms in the Reinforcement Learning Book by Richard Sutton.
 I chose the Cliffwalking-v0 environment in gymnasium to try out these algorithms
 
@@ -23,3 +25,8 @@ python main.py
 # Experiments
 
 As you can see all three algorithms converged. Although all three algorithms could have been improved, Q Learning was particularly more effective.
+
+![Experiments](https://github.com/RishiMalhotra920/rl-projects/blob/master/images/Experiments.png)
+
+
+![ExperimentsUpClose](https://github.com/RishiMalhotra920/rl-projects/blob/master/images/ExperimentsUpClose.png)
