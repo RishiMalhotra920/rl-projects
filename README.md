@@ -1,6 +1,6 @@
-![CliffWalking](https://github.com/RishiMalhotra920/rl-projects/blob/master/images/Cliffwalking.png)
-
-![Taxi](https://github.com/RishiMalhotra920/rl-projects/blob/master/images/Taxi.png)
+Cliffwalking             |  Taxi
+:-------------------------:|:-------------------------:
+![CliffWalking](https://github.com/RishiMalhotra920/rl-projects/blob/master/images/Cliffwalking.png)  |  ![Taxi](https://github.com/RishiMalhotra920/rl-projects/blob/master/images/Taxi.png)
 
 # About
 
