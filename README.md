@@ -1,5 +1,7 @@
 ![CliffWalking](https://github.com/RishiMalhotra920/rl-projects/blob/master/images/Cliffwalking.png)
 
+![Taxi](https://github.com/RishiMalhotra920/rl-projects/blob/master/images/Taxi.png)
+
 # About
 
 This is me experimenting with various algorithms in the Reinforcement Learning Book by Richard Sutton.
