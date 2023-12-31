@@ -118,7 +118,7 @@ class TDAgent:
             episode.append((reward, next_state, action))
 
             self.render(isRender)
-            time.sleep(0.2)
+            time.sleep(0.5)
             if done:
                 break
 
